@@ -3,3 +3,4 @@ Linux: Ubuntu
 Terminal: Zsh
 
 Machine: Win10
+Version: 64-Bit
