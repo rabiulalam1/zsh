@@ -1,0 +1,3 @@
+Name: Ironhack
+Linux: Ubuntu
+Terminal: Zsh
