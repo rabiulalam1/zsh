@@ -1,3 +1,5 @@
 Name: Ironhack
 Linux: Ubuntu
 Terminal: Zsh
+
+Machine: Win10
